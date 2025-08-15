@@ -18,10 +18,6 @@ data/raw/
 data/interim/
 data/processed/
 
-# Model files
-models/*.pkl
-models/*.joblib
-
 # Logs
 *.log
 
