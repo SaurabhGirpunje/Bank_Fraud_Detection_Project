@@ -1,0 +1,18 @@
+# python -m venv bankEnv
+
+# .\bankEnv\Scripts\activate
+
+# pip install ipykernel
+
+# python -m ipykernel install --user --name=bankEnv --display-name "Python (bankEnv)"
+
+# pip install --upgrade --force-reinstall -r requirements.txt
+
+# Load onlinefraud.csv --> original file in ProjectDirectory/raw/onlinefraud.csv
+
+# Make this data-folders:
+    data/raw/
+    data/interim/
+    data/processed/
+
+# pickle file will be auto created

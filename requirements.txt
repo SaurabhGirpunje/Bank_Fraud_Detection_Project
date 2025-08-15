@@ -1,0 +1,14 @@
+numpy==2.2.0
+numba
+shap
+pandas
+matplotlib
+seaborn
+xgboost
+scikit-learn
+PyYAML
+notebook
+optuna
+shap
+streamlit
+imblearn

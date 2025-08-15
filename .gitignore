@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+bankEnv/
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folders (exclude raw/processed datasets)
+data/raw/
+data/interim/
+data/processed/
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+*.pyc
+
+# Temporary files
+*.tmp
+*.swp
+
+#notes.txt ignore
+notes.txt
