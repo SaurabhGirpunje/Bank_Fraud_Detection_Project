@@ -14,6 +14,13 @@ The main goals of this project were:
 
 ---
 
+## Streamlit App
+
+The Streamlit app can be run locally or deployed on the web. It provides a **simple interface for real-time fraud prediction** and feature-level explanations using SHAP plots. \
+Link: https://bankfrauddetectionproject.streamlit.app
+
+---
+
 ## Dataset Description
 
 The dataset used in this project is sourced from Kaggle:
@@ -264,8 +271,3 @@ This project demonstrates that **machine learning, particularly XGBoost**, is hi
 By combining **data-driven insights**, robust modeling, and user-friendly deployment, this project provides a scalable solution for **preventing financial fraud and protecting customer trust**.
 
 ---
-
-## Streamlit App
-
-The Streamlit app can be run locally or deployed on the web. It provides a **simple interface for real-time fraud prediction** and feature-level explanations using SHAP plots. \
-Link: 
